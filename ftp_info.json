@@ -1,0 +1,9 @@
+{
+    "host" : "FTP-HOST-NAME",
+    "port" : 12345,
+    "user" : "USERNAME HERE",
+    "password" : "PASSWORD HERE",
+    "_comment_1" : "This file is a placeholder",
+    "_comment_2" : "Fill in the above information for the FTP server(s) you wish to access",
+    "_comment_3" : "Never include sensitive info when storing this on remote Git services."
+}
